@@ -1,3 +1,3 @@
-### codeBleuz r>
+### codeBleuz
 webFiles_template
 
